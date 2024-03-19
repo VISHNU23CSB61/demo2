@@ -1,2 +1,2 @@
 hello git
-hi now pull
+hi now we test to pull
